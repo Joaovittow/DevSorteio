@@ -49,6 +49,7 @@ input {
     background: rgba(255, 255, 255, 0.25);
     margin-left: 20px;
     text-align: start;
+    appearance: none;
     outline: none;
     color: #adacac;
     font-weight: 700;
